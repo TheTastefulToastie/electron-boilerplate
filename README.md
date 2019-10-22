@@ -8,7 +8,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/TheTastefulToastie/ElectronBoilerplate
+git clone https://github.com/TheTastefulToastie/electron-boilerplate
 
 # Go into the repository
 cd ElectronBoilerplate
